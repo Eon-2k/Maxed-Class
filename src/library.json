@@ -1,0 +1,114 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "type": "Games",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnailUrl": "https://picsum.photos/seed/2048/400/225"
+  },
+  {
+    "id": "stack",
+    "title": "Stack",
+    "description": "Stack up the blocks as high as you can.",
+    "type": "Games",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnailUrl": "https://picsum.photos/seed/stack/400/225"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game. Eat the apples and grow longer.",
+    "type": "Games",
+    "iframeUrl": "https://www.google.com/logos/2010/snake.html",
+    "thumbnailUrl": "https://picsum.photos/seed/snake/400/225"
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "description": "The classic game of strategy.",
+    "type": "Games",
+    "iframeUrl": "https://lichess.org/tv",
+    "thumbnailUrl": "https://picsum.photos/seed/chess/400/225"
+  },
+  {
+    "id": "flappy",
+    "title": "Flappy Bird",
+    "description": "Tap to fly through the pipes.",
+    "type": "Games",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnailUrl": "https://picsum.photos/seed/flappy/400/225"
+  },
+  {
+    "id": "tiktok",
+    "title": "TikTok",
+    "description": "Watch the latest short-form videos.",
+    "type": "Apps",
+    "iframeUrl": "https://www.tiktok.com",
+    "thumbnailUrl": "https://picsum.photos/seed/tiktok/400/225"
+  },
+  {
+    "id": "spotify",
+    "title": "Spotify",
+    "description": "Listen to your favorite music and podcasts.",
+    "type": "Apps",
+    "iframeUrl": "https://open.spotify.com",
+    "thumbnailUrl": "https://picsum.photos/seed/spotify/400/225"
+  },
+  {
+    "id": "instagram",
+    "title": "Instagram",
+    "description": "Bring you closer to the people and things you love.",
+    "type": "Apps",
+    "iframeUrl": "https://www.instagram.com",
+    "thumbnailUrl": "https://picsum.photos/seed/instagram/400/225"
+  },
+  {
+    "id": "youtube",
+    "title": "YouTube",
+    "description": "Share your videos with friends, family, and the world.",
+    "type": "Apps",
+    "iframeUrl": "https://www.youtube.com",
+    "thumbnailUrl": "https://picsum.photos/seed/youtube/400/225"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point.",
+    "type": "Games",
+    "iframeUrl": "https://game316009.konggames.com/gamefile/0031/6009/RetroBowl.html",
+    "thumbnailUrl": "https://picsum.photos/seed/retrobowl/400/225"
+  },
+  {
+    "id": "escape-road",
+    "title": "Escape Road",
+    "description": "High-octane police chase simulator. Can you outrun the law?",
+    "type": "Games",
+    "iframeUrl": "https://escaperoad.org/game.embed",
+    "thumbnailUrl": "https://picsum.photos/seed/escaperoad/400/225"
+  },
+  {
+    "id": "plague-inc",
+    "title": "Plague Inc.",
+    "description": "Can you infect the world? Evolution and strategy at its deadliest.",
+    "type": "Games",
+    "iframeUrl": "https://ndemiccreations.com/en/22-plague-inc",
+    "thumbnailUrl": "https://picsum.photos/seed/plague/400/225"
+  },
+  {
+    "id": "ages-of-conflict",
+    "title": "Ages of Conflict",
+    "description": "A versatile World War Simulation Game. Watch nations battle across time.",
+    "type": "Games",
+    "iframeUrl": "https://agesofconflict.io/",
+    "thumbnailUrl": "https://picsum.photos/seed/war/400/225"
+  },
+  {
+    "id": "fortnite",
+    "title": "Fortnite Cloud",
+    "description": "Play Fortnite via Xbox Cloud Gaming. No download required.",
+    "type": "Games",
+    "iframeUrl": "https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2",
+    "thumbnailUrl": "https://picsum.photos/seed/fortnite/400/225"
+  }
+]

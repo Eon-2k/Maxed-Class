@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Helvetica Neue', ui-sans-serif, system-ui, sans-serif;
+  
+  --color-bg-dark: #080710;
+  --color-glass-surface: rgba(255, 255, 255, 0.05);
+  --color-glass-edge: rgba(255, 255, 255, 0.1);
+}
+
+@layer base {
+  body {
+    @apply bg-bg-dark text-white font-sans antialiased overflow-x-hidden;
+  }
+}
+
+@layer components {
+  .mesh-gradient {
+    @apply fixed inset-0 -z-10 w-full h-full;
+    background: 
+      radial-gradient(at 0% 0%, #1a1a2e 0, transparent 50%), 
+      radial-gradient(at 50% 0%, #16213e 0, transparent 50%), 
+      radial-gradient(at 100% 0%, #0f3460 0, transparent 50%), 
+      radial-gradient(at 0% 100%, #1a1a2e 0, transparent 50%), 
+      radial-gradient(at 100% 100%, #080710 0, transparent 50%);
+  }
+
+  .glass {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    @apply rounded-[2rem] hover:bg-[rgba(255,255,255,0.08)] hover:border-[rgba(255,255,255,0.2)] transition-all;
+  }
+
+  .glass-button {
+    @apply bg-white text-black font-black text-xs tracking-widest px-8 py-3 rounded-2xl shadow-xl hover:scale-105 transition-transform;
+  }
+
+  .status-dot {
+    @apply w-2 h-2 rounded-full bg-[#10b981] shadow-[0_0_8px_#10b981];
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .game-iframe {
+    @apply w-full h-full border-none rounded-3xl;
+  }
+}

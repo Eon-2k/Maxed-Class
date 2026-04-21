@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnailUrl": "https://picsum.photos/seed/2048/400/225"
+  },
+  {
+    "id": "stack",
+    "title": "Stack",
+    "description": "Stack up the blocks as high as you can.",
+    "category": "Arcade",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnailUrl": "https://picsum.photos/seed/stack/400/225"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "Classic snake game. Eat the apples and grow longer.",
+    "category": "Arcade",
+    "iframeUrl": "https://www.google.com/logos/2010/snake.html",
+    "thumbnailUrl": "https://picsum.photos/seed/snake/400/225"
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "description": "The classic game of strategy.",
+    "category": "Strategy",
+    "iframeUrl": "https://lichess.org/tv",
+    "thumbnailUrl": "https://picsum.photos/seed/chess/400/225"
+  },
+  {
+    "id": "flappy",
+    "title": "Flappy Bird",
+    "description": "Tap to fly through the pipes.",
+    "category": "Action",
+    "iframeUrl": "https://flappybird.io/",
+    "thumbnailUrl": "https://picsum.photos/seed/flappy/400/225"
+  }
+]
